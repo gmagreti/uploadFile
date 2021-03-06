@@ -65,7 +65,7 @@ label {
 }
 
 .upload-btn input[type=file] {
-    font-size: 10px;
+    font-size: 100px;
     position: absolute;
     left: 0;
     top: 0;
